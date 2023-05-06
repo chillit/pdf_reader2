@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756186392168",
+    "project_id": "reader-60a10",
+    "storage_bucket": "reader-60a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756186392168:android:4fa2e3a17e15ff3d8abddd",
+        "android_client_info": {
+          "package_name": "com.example.pdf_reader2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756186392168-o9924cc75r4fii976d204iaf3sfls9ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0gcCMmTvN0aZsg-Prh2al937UUY5RYGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756186392168-o9924cc75r4fii976d204iaf3sfls9ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
